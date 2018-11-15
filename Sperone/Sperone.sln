@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sperone", "Sperone\Sperone.csproj", "{B650F287-A986-4004-9D1A-656DD59DB125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sperone.Indexing", "Sperone.Indexing\Sperone.Indexing.csproj", "{33ECA6AF-9FAE-48FF-AE8D-56FA0E36F7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sperone.Storage", "Sperone.Storage\Sperone.Storage.csproj", "{1129914F-6C56-4473-836C-9FFAB4198775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sperone.Clustering", "Sperone.Clustering\Sperone.Clustering.csproj", "{7AD18A41-9E81-4DAA-8685-39C8E4F291CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sperone.Base", "Sperone.Base\Sperone.Base.csproj", "{08F16FD1-93BA-40F1-820F-FBED7D19C6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTanker", "DataTanker\DataTanker.csproj", "{5F92AC0E-16E6-4680-AD4E-7EDF8D519A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B650F287-A986-4004-9D1A-656DD59DB125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B650F287-A986-4004-9D1A-656DD59DB125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B650F287-A986-4004-9D1A-656DD59DB125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B650F287-A986-4004-9D1A-656DD59DB125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33ECA6AF-9FAE-48FF-AE8D-56FA0E36F7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ECA6AF-9FAE-48FF-AE8D-56FA0E36F7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ECA6AF-9FAE-48FF-AE8D-56FA0E36F7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ECA6AF-9FAE-48FF-AE8D-56FA0E36F7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1129914F-6C56-4473-836C-9FFAB4198775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1129914F-6C56-4473-836C-9FFAB4198775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1129914F-6C56-4473-836C-9FFAB4198775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1129914F-6C56-4473-836C-9FFAB4198775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD18A41-9E81-4DAA-8685-39C8E4F291CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD18A41-9E81-4DAA-8685-39C8E4F291CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD18A41-9E81-4DAA-8685-39C8E4F291CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD18A41-9E81-4DAA-8685-39C8E4F291CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F16FD1-93BA-40F1-820F-FBED7D19C6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F16FD1-93BA-40F1-820F-FBED7D19C6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F16FD1-93BA-40F1-820F-FBED7D19C6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F16FD1-93BA-40F1-820F-FBED7D19C6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F92AC0E-16E6-4680-AD4E-7EDF8D519A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F92AC0E-16E6-4680-AD4E-7EDF8D519A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F92AC0E-16E6-4680-AD4E-7EDF8D519A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F92AC0E-16E6-4680-AD4E-7EDF8D519A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B80DC17-B46C-42C3-814B-615C15BC64F4}
+	EndGlobalSection
+EndGlobal
