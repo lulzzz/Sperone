@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sperone.Clustering\Sperone.Clustering.csproj" />
+    <ProjectReference Include="..\Sperone.Storage\Sperone.Storage.csproj" />
+  </ItemGroup>
+
+</Project>

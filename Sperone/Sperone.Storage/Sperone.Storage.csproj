@@ -3,12 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <ApplicationIcon />
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <StartupObject></StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataTanker\DataTanker.csproj" />
+    <ProjectReference Include="..\DataTanker\DataTanker\DataTanker.csproj" />
     <ProjectReference Include="..\Sperone.Base\Sperone.Base.csproj" />
   </ItemGroup>
 

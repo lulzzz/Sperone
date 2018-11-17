@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Sperone.Base\Sperone.Base.csproj" />
+    <ProjectReference Include="..\Sperone.Storage\Sperone.Storage.csproj" />
   </ItemGroup>
 
 </Project>
